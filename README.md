@@ -2,7 +2,7 @@
 
 ![comic](assets/clean-code-comic.jpeg)
 
-Adaptado de: [https://github.com/Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article)
+Adaptado de: [https://github.com/fonluc/codigo-limpo-golang](https://github.com/fonluc/codigo-limpo-golang)
 
 Este trabalho tem como objetivo estabelecer o primeiro guia de clean code em Rust, oferecendo uma base sólida para boas práticas na linguagem. No entanto, como todo trabalho inicial, pode conter erros de código e de gramática. Portanto, é fundamental que outros desenvolvedores se envolvam e contribuam para aprimorar este repositório. Isso não só enriquecerá o conteúdo, mas também refletirá a qualidade e o compromisso dos desenvolvedores brasileiros, sejam eles especialistas em backend, Golang, Rust, web3 ou blockchain. A colaboração de todos é essencial para elevar o padrão do desenvolvimento de software e promover a excelência na nossa comunidade.
 
