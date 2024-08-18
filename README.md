@@ -1,5 +1,6 @@
 # Código Rust Limpo
 
+![comic](assets/clean-code-comic.jpeg)
 
 ## Prefácio: Por que Escrever Código Limpo?
 
